@@ -1,0 +1,26 @@
+/* Cambiar la barra superior de Swagger a un tono oscuro y elegante */
+.swagger-ui .topbar {
+    background-color: #1a1a37;
+    border-bottom: 2px solid #0f3460;
+}
+
+/* Ocultar el enlace por defecto del logo de Swagger */
+.swagger-ui .topbar .download-url-wrapper {
+    display: none;
+}
+
+/* Personalizar los botones de métodos HTTP (GET, POST, etc.) con bordes redondeados */
+.swagger-ui .opblock.opblock-post {
+    background: rgba(67, 110, 85, 0.1);
+    border-color: #8253e0;
+}
+
+.swagger-ui .opblock.opblock-get {
+    background: rgba(0, 123, 255, 0.1);
+    border-color: #007bff;
+}
+
+/* Mejorar la tipografía general */
+.swagger-ui {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

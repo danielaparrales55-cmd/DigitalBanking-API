@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\bin\Debug\net10.0\DigitalBanking.Application.deps.json
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\bin\Debug\net10.0\DigitalBanking.Application.dll
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\bin\Debug\net10.0\DigitalBanking.Application.pdb
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\bin\Debug\net10.0\DigitalBanking.Domain.dll
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\bin\Debug\net10.0\DigitalBanking.Domain.pdb
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalBanking.Application.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalBanking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalBanking.Application.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalBanking.Application.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalBanking.Application.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalB.E9768D9C.Up2Date
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalBanking.Application.dll
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\refint\DigitalBanking.Application.dll
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\DigitalBanking.Application.pdb
+C:\Users\danie\OneDrive\Desktop\ProyectoBanco\DigitalBanking.Application\obj\Debug\net10.0\ref\DigitalBanking.Application.dll

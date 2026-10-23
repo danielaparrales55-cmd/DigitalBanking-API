@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DigitalBanking.Application/1.0.0": {
+        "dependencies": {
+          "DigitalBanking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DigitalBanking.Application.dll": {}
+        }
+      },
+      "DigitalBanking.Domain/1.0.0": {
+        "runtime": {
+          "DigitalBanking.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitalBanking.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DigitalBanking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

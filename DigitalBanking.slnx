@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DigitalBanking.API/DigitalBanking.API.csproj" />
+  <Project Path="DigitalBanking.Application/DigitalBanking.Application.csproj" />
+  <Project Path="DigitalBanking.Domain/DigitalBanking.Domain.csproj" />
+  <Project Path="DigitalBanking.Infrastructure/DigitalBanking.Infrastructure.csproj" />
+  <Project Path="DigitalBanking.Tests/DigitalBanking.Tests.csproj" />
+</Solution>
